@@ -1,4 +1,4 @@
-let cor;r;
+let cor;
 let posicaoohoriontal;//x
 let posicaovertical;//y
 function setup() {
