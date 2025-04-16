@@ -7,10 +7,11 @@
     <title>Meu portfólio</title>
 </head>
 <body>
+  
     <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
-    <p>Eu sou Alice_</p>
-    <h1>Eu sou uma empreendedora</h1>
-    <p>Sou dona de uma loja de roupas de marca, E tenho um auto curso de como empreender! </p>
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+    <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos que já desenvolvi! </p>
     <p>Minhas habilidades</p>
     <div>
             <p>HTML</p>
@@ -20,3 +21,6 @@
     </div>
 </body>
 </html>
+
+
+
